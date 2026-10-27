@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background: white;
+    color: black;
+}
+
+.dark {
+    background: black;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+h1{
+    padding-right: 500px;
+}
+
+.fuck {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.juju{
+
+    display: flex;
+}
+
+.main{
+    margin-top: 100px;
+}
